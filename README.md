@@ -3,7 +3,7 @@
 The site is deployed as **[Potential Jammming](https://potentialjammming.surge.sh/)**, to Surge.
 
 
-In this app you can choose your favorite songs from Spotify and create your own playlists, then you can export them to your Spotify account; it includes the following Potential Features (all of them are comment to help other developers learning):
+In this app you can choose your favorite songs from Spotify and create your own playlists, then you can export them to your Spotify account; it includes the following **Potential Features** (all of them are comment to help other developers learning):
 
 - Pressing enter in the search bar triggers a search.
 - Include preview samples for each track.
